@@ -10,7 +10,7 @@ C++Now 2019 Presentations
 IMPORTANT:
 ----------
 
-Talks that do not have slides or video will have a red question mark (❓) displayed to either the talk name or in the link. The link will probably take you to something silly, so only click on a "(❓ no video)" link if you want to be perplexed!
+Talks that do not have slides or video will have a red question mark (❓) before the talk or the video in its link. You can still click it if you really want, but the link will prooooobably take you to something silly. Links without a red question mark will take you to the slides or video. If it doesn't, then I messed up and you should open an issue!
 
 
 Monday, May 06
@@ -81,13 +81,13 @@ Thursday, May 09
 +-----------------------+----------------------------+----------------------------+----------------------------+
 |                       | Flug                       | Hudson                     | Bethe                      |
 +=======================+============================+============================+============================+
-| Morning (9:00-10:30)  | |thuAM0flg|_ |thuAM0flgV|_ | |thuAM0hud|  |thuAM0hudV|_ | |thuAM0bet|_ |thuAM0betV|_ |
+| Morning (9:00-10:30)  | |thuAM0flg|_ |thuAM0flgV|_ | |thuAM0hud|_ |thuAM0hudV|_ | |thuAM0bet|_ |thuAM0betV|_ |
 +-----------------------+----------------------------+----------------------------+----------------------------+
 | Morning (11:00-11:45) | |thuAM2flg|_ |thuAM2flgV|_ | |thuAM2hud|_ |thuAM2hudV|_ | |thuAM2bet|_ |thuAM2betV|_ |
 +-----------------------+----------------------------+----------------------------+----------------------------+
 | Morning (11:45-12:30) |                            | |thuAM3hud|_ |thuAM3hudV|_ |                            |
 +-----------------------+----------------------------+----------------------------+----------------------------+
-| Afternoon (2:30-4:00) | |thuPM0flg|_ |thuPM0flgV|_ | |thuPM0hud|  |thuPM0hudV|_ | |thuPM0bet|_ |thuPM0betV|_ |
+| Afternoon (2:30-4:00) | |thuPM0flg|_ |thuPM0flgV|_ | |thuPM0hud|_ |thuPM0hudV|_ | |thuPM0bet|_ |thuPM0betV|_ |
 +-----------------------+----------------------------+----------------------------+----------------------------+
 | Afternoon (4:30-6:00) | |thuPM2flg|_ |thuPM2flgV|_ | |thuPM2hud|_ |thuPM2hudV|_ | |thuPM2bet|_ |thuPM2betV|_ |
 +-----------------------+----------------------------+----------------------------+----------------------------+
@@ -99,9 +99,9 @@ Friday, May 10
 +-----------------------+----------------------------+----------------------------+----------------------------+
 |                       | Flug                       | Hudson                     | Bethe                      |
 +=======================+============================+============================+============================+
-| Morning (9:00-10:30)  | |thuAM0flg|_ |thuAM0flgV|_ | |thuAM0hud|_ |thuAM0hudV|_ | |thuAM0bet|_ |thuAM0betV|_ |
+| Morning (9:00-10:30)  | |friAM0flg|_ |friAM0flgV|_ | |friAM0hud|_ |friAM0hudV|_ | |friAM0bet|_ |friAM0betV|_ |
 +-----------------------+----------------------------+----------------------------+----------------------------+
-| Morning (11:00-12:30) | |thuAM2flg|_ |thuAM2flgV|_ | |thuAM2hud|_ |thuAM2hudV|_ | |thuAM2bet|_ |thuAM2betV|_ |
+| Morning (11:00-12:30) | |friAM2flg|_ |friAM2flgV|_ | |friAM2hud|_ |friAM2hudV|_ | |friAM2bet|_ |friAM2betV|_ |
 +-----------------------+----------------------------+----------------------------+----------------------------+
 
 
@@ -222,7 +222,7 @@ Lightning Talks
 .. _tuePM0flg: 05-07-2019_tuesday/Rise_of_the_State_Machines__Kris_Jusiak__cppnow_05072019.pdf
 .. |tuePM0flgV| replace:: (❓ no video)
 .. _tuePM0flgV: https://www.youtube.com/watch?v=fq3abPnEEGE
-.. |tuePM0hud| replace:: ❓ Better CTAD for C++20 (no slides) | Timur Doumler
+.. |tuePM0hud| replace:: Better CTAD for C++20 | Timur Doumler
 .. _tuePM0hud: 05-07-2019_tuesday/Better_CTAD_for_Cpp20__Timur_Doumler__cppnow_05072019.pdf
 .. |tuePM0hudV| replace:: (❓ no video)
 .. _tuePM0hudV: https://www.youtube.com/watch?v=fq3abPnEEGE
