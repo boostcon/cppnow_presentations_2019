@@ -137,6 +137,8 @@ Lightning Talks
 +------------------------+-------------------+
 | |lightning05|_         | |lightning05V|_   |
 +------------------------+-------------------+
+| |lightning06|_         | |lightning06V|_   |
++------------------------+-------------------+
 
 
 
@@ -173,12 +175,12 @@ Lightning Talks
 .. _monPM0betV: https://www.youtube.com/watch?v=fq3abPnEEGE
 .. |monPM0flg| replace:: A Multithreaded, Transaction-Based Read/Write Locking Strategy for Containers | Bob Steagall
 .. _monPM0flg: 05-06-2019_monday/A_Multithreaded,_Transaction-Based,_Read-Write_Locking_Strategy_for_Containers__Bob_Steagall__cppnow05062019.pdf
-.. |monPM0flgV| replace:: (❓ no video)
-.. _monPM0flgV: https://www.youtube.com/watch?v=fq3abPnEEGE
+.. |monPM0flgV| replace:: (video)
+.. _monPM0flgV: https://www.youtube.com/watch?v=oZg0gxA8__o
 .. |monPM0hud| replace:: How I Learned to Stop Worrying and Love the C++ Type System
 .. _monPM0hud: 05-06-2019_monday/How_I_Learned_to_Stop_worrying_and_Love_the_Cpp_Type_System__Peter_Sommerlad__cppnow_05062019.pdf
-.. |monPM0hudV| replace:: (❓ no video)
-.. _monPM0hudV: https://www.youtube.com/watch?v=fq3abPnEEGE
+.. |monPM0hudV| replace:: (video)
+.. _monPM0hudV: https://www.youtube.com/watch?v=U0DyF4J4beo
 
 .. |monPM2bet| replace:: test_resource: the pmr detective | Attila Feher
 .. _monPM2bet: 05-06-2019_monday/test_resource_the_pmr_detective__Attila_Feher__cppnow_05061029.pdf
@@ -186,8 +188,8 @@ Lightning Talks
 .. _monPM2betV: https://www.youtube.com/watch?v=fq3abPnEEGE
 .. |monPM2flg| replace:: Dependency Injection - a 25-dollar term for a 5-cent concept
 .. _monPM2flg: 05-06-2019_monday/Dependency_Injection_a_25-dollar_Term_for_a_5-cent_Concept__Kris_Jusiak__cppnow_05062019.pdf
-.. |monPM2flgV| replace:: (❓ no video)
-.. _monPM2flgV: https://www.youtube.com/watch?v=fq3abPnEEGE
+.. |monPM2flgV| replace:: (video)
+.. _monPM2flgV: https://www.youtube.com/watch?v=yVogS4NbL6U
 .. |monPM2hud| replace:: ❓ Embedded Domain Specific Languages for Embedded Bare Metal Projects | Michael Caisse (no slides)
 .. _monPM2hud: 05-06-2019_monday/talk_title__author__cppnow_05062019.md
 .. |monPM2hudV| replace:: (❓ no video)
@@ -431,4 +433,7 @@ Lightning Talks
 .. |lightning05V| replace:: (❓ no video)
 .. _lightning05V: https://www.youtube.com/watch?v=SHvhps47Lmc
 
-
+.. |lightning06| replace:: Distributed Object Abstraction using HPX | Weile Wei
+.. _lightning06: lightning_talks/Distributed_Object_Abstraction_using_HPX__Weile_Wei__cppnow_05060219.pdf
+.. |lightning06V| replace:: (❓ no video)
+.. _lightning06V: https://www.youtube.com/watch?v=SHvhps47Lmc
