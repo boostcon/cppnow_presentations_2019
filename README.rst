@@ -152,8 +152,8 @@ Lightning Talks
 .. |monAM0pae| replace:: ❓ C++ Constants | Daveed Vandevoorde (no slides)
 .. .. _monAM0pae: 05-06-2019_monday/Cpp_Constants__Daveed_Vandevoorde__cppnow_05062019.pdf
 .. _monAM0pae: 05-06-2019_monday/talk_title__author__cppnow_05062019.md
-.. |monAM0paeV| replace:: (❓ no video)
-.. _monAM0paeV: https://www.youtube.com/watch?v=SHvhps47Lmc
+.. |monAM0paeV| replace:: (video)
+.. _monAM0paeV: https://www.youtube.com/watch?v=m9tcmTjGeho
 
 .. |monAM2flg| replace:: ❓ Matchine: Pattern Matching for Open Sum Types | André Bergner (no slides)
 .. _monAM2flg: 05-06-2019_monday/talk_title__author__cppnow_05062019.md
@@ -165,14 +165,14 @@ Lightning Talks
 .. _monAM2hudV: https://www.youtube.com/watch?v=SHvhps47Lmc
 .. |monAM2bet| replace:: Property-Based Declarative Containers | Charles Bay 
 .. _monAM2bet: 05-06-2019_monday/Property-Based_Declarative_Containers__Charley_Bay__cppnow_05062019.pdf
-.. |monAM2betV| replace:: (❓ no video)
-.. _monAM2betV: https://www.youtube.com/watch?v=fq3abPnEEGE
+.. |monAM2betV| replace:: (video)
+.. _monAM2betV: https://www.youtube.com/watch?v=ftm___mS0ck
 
 
 .. |monPM0bet| replace:: Value Proposition: Allocator-Aware (AA) Software
 .. _monPM0bet: 05-06-2019_monday/Value_Proposition_Allocator-Aware_(AA)_Software__John_Lakos__cppnow_05062019.pdf
-.. |monPM0betV| replace:: (❓ no video)
-.. _monPM0betV: https://www.youtube.com/watch?v=fq3abPnEEGE
+.. |monPM0betV| replace:: (video)
+.. _monPM0betV: https://www.youtube.com/watch?v=dDR93TfacHc
 .. |monPM0flg| replace:: A Multithreaded, Transaction-Based Read/Write Locking Strategy for Containers | Bob Steagall
 .. _monPM0flg: 05-06-2019_monday/A_Multithreaded,_Transaction-Based,_Read-Write_Locking_Strategy_for_Containers__Bob_Steagall__cppnow05062019.pdf
 .. |monPM0flgV| replace:: (video)
@@ -184,33 +184,33 @@ Lightning Talks
 
 .. |monPM2bet| replace:: test_resource: the pmr detective | Attila Feher
 .. _monPM2bet: 05-06-2019_monday/test_resource_the_pmr_detective__Attila_Feher__cppnow_05061029.pdf
-.. |monPM2betV| replace:: (❓ no video)
-.. _monPM2betV: https://www.youtube.com/watch?v=fq3abPnEEGE
+.. |monPM2betV| replace:: (video)
+.. _monPM2betV: https://www.youtube.com/watch?v=48oAZqlyx_g
 .. |monPM2flg| replace:: Dependency Injection - a 25-dollar term for a 5-cent concept
 .. _monPM2flg: 05-06-2019_monday/Dependency_Injection_a_25-dollar_Term_for_a_5-cent_Concept__Kris_Jusiak__cppnow_05062019.pdf
 .. |monPM2flgV| replace:: (video)
 .. _monPM2flgV: https://www.youtube.com/watch?v=yVogS4NbL6U
-.. |monPM2hud| replace:: ❓ Embedded Domain Specific Languages for Embedded Bare Metal Projects | Michael Caisse (no slides)
-.. _monPM2hud: 05-06-2019_monday/talk_title__author__cppnow_05062019.md
-.. |monPM2hudV| replace:: (❓ no video)
-.. _monPM2hudV: https://www.youtube.com/watch?v=fq3abPnEEGE
+.. |monPM2hud| replace:: Embedded Domain Specific Languages for Embedded Bare Metal Projects | Michael Caisse (no slides)
+.. _monPM2hud: 05-06-2019_monday/embedded_domain_specific_languages_for_embedded_bare_metal_projects__michael_caisse__cppnow_05062019.pdf
+.. |monPM2hudV| replace:: (video)
+.. _monPM2hudV: https://www.youtube.com/watch?v=OkeRijjmoh8
 
 
 .. Tuesday, May 07
 
 .. |tueAM0pae| replace:: Compile Time Regular Expressions with Deterministic Finite Automata | Hana Dusíková ❓ 
 .. _tueAM0pae: 05-07-2019_tuesday/Compile_Time_Regular_Expressions_with_Deterministic_Finite_Automatate__Hana_Dusíková__cppnow_05072019.pdf
-.. |tueAM0paeV| replace:: (❓ no video)
-.. _tueAM0paeV: https://www.youtube.com/watch?v=SHvhps47Lmc
+.. |tueAM0paeV| replace:: (video)
+.. _tueAM0paeV: https://www.youtube.com/watch?v=IO3MO450WX4
 
 .. |tueAM2bet| replace:: Implementing a Physical Units Library for C++ | Mateusz Pusz
 .. _tueAM2bet: 05-07-2019_tuesday/Implementing_a_Physical_Units_Library_for_Cpp__Mateusz_Pusz__cppnow_05072019.pdf
-.. |tueAM2betV| replace:: (❓ no video)
-.. _tueAM2betV: https://www.youtube.com/watch?v=fq3abPnEEGE
-.. |tueAM2flg| replace:: Sane Modern Special Member Functions | Peter Sommerlad
+.. |tueAM2betV| replace:: (video)
+.. _tueAM2betV: https://www.youtube.com/watch?v=wKchCktZPHU
+.. |tueAM2flg| replace:: Sane and Safe C++ Class Types | Peter Sommerlad
 .. _tueAM2flg: 05-07-2019_tuesday/Sane_Modern_Special_Member_Functions__Peter_Sommerlad__cppnow_05072019.pdf
-.. |tueAM2flgV| replace:: (❓ no video)
-.. _tueAM2flgV: https://www.youtube.com/watch?v=fq3abPnEEGE
+.. |tueAM2flgV| replace:: (video)
+.. _tueAM2flgV: https://www.youtube.com/watch?v=wq9NaZfQKJU
 .. |tueAM2hud| replace:: Linear Algebra for the Standard C++ Library | Bob Steagall
 .. _tueAM2hud: 05-07-2019_tuesday/Linear_Algebra_for_the_Standard_Cpp_Library__Bob Steagall__cppnow_05072019.pdf
 .. |tueAM2hudV| replace:: (❓ no video)
@@ -218,31 +218,31 @@ Lightning Talks
 
 .. |tuePM0bet| replace:: The Truth of a Procedure | Lisa Lippincott
 .. _tuePM0bet: 05-07-2019_tuesday/The_Truth_of_a_Procedure__Lisa_Lippincott__cppnow_05072019.pdf
-.. |tuePM0betV| replace:: (❓ no video)
-.. _tuePM0betV: https://www.youtube.com/watch?v=fq3abPnEEGE
+.. |tuePM0betV| replace:: (video)
+.. _tuePM0betV: https://www.youtube.com/watch?v=DfNJR0wYRK4
 .. |tuePM0flg| replace:: Rise of the State Machines | Kris Jusiak
 .. _tuePM0flg: 05-07-2019_tuesday/Rise_of_the_State_Machines__Kris_Jusiak__cppnow_05072019.pdf
-.. |tuePM0flgV| replace:: (❓ no video)
-.. _tuePM0flgV: https://www.youtube.com/watch?v=fq3abPnEEGE
+.. |tuePM0flgV| replace:: (video)
+.. _tuePM0flgV: https://www.youtube.com/watch?v=Zb6xcd2as6o
 .. |tuePM0hud| replace:: Better CTAD for C++20 | Timur Doumler
 .. _tuePM0hud: 05-07-2019_tuesday/Better_CTAD_for_Cpp20__Timur_Doumler__cppnow_05072019.pdf
-.. |tuePM0hudV| replace:: (❓ no video)
-.. _tuePM0hudV: https://www.youtube.com/watch?v=fq3abPnEEGE
+.. |tuePM0hudV| replace:: (video)
+.. _tuePM0hudV: https://www.youtube.com/watch?v=7LPQWqAZZqs
 
 .. |tuePM2bet| replace:: ❓ Tacit DSL All the Things | Odin Holmes (no slides)
 .. .. _tuePM2bet: 05-07-2019_tuesday/Tacit_DSL_All_the_Things__Odin_Holmes__cppnow_05072019.pdf
 .. _tuePM2bet: 05-07-2019_tuesday/talk_title__author__cppnow_05072019.md
-.. |tuePM2betV| replace:: (❓ no video)
-.. _tuePM2betV: https://www.youtube.com/watch?v=fq3abPnEEGE
+.. |tuePM2betV| replace:: (video)
+.. _tuePM2betV: https://www.youtube.com/watch?v=J0jwUEyrvQM
 .. |tuePM2flg| replace:: ❓ The C++20 Standard Library - Beyond Ranges | Jeff Garland (no slides)
 .. .. _tuePM2flg: 05-07-2019_tuesday/The_Cpp20_Standard_Library_-_Beyond_Ranges__Jeff_Garland__cppnow_05072019.pdf
 .. _tuePM2flg: 05-07-2019_tuesday/talk_title__author__cppnow_05072019.md
-.. |tuePM2flgV| replace:: (❓ no video)
-.. _tuePM2flgV: https://www.youtube.com/watch?v=fq3abPnEEGE
+.. |tuePM2flgV| replace:: (video)
+.. _tuePM2flgV: https://www.youtube.com/watch?v=hXCP8Qb-NNE
 .. |tuePM2hud| replace:: C++: Engineers Wanted, Programmers not so Much | David Sankel
 .. _tuePM2hud: 05-07-2019_tuesday/Cpp_Engineers_Wanted__David_Sankel__cpp_now_05072019.pdf
-.. |tuePM2hudV| replace:: (❓ no video)
-.. _tuePM2hudV: https://www.youtube.com/watch?v=fq3abPnEEGE 
+.. |tuePM2hudV| replace:: (video)
+.. _tuePM2hudV: https://www.youtube.com/watch?v=eJTEoPvinpQ 
 
 .. |tuePM6flg| replace:: C++Now and CppCon, the View from Inside | Robin Kuzmin
 .. .. _tuePM6flg: 05-07-2019_tuesday/CppNow_and_CppCon_The_View_From_Inside__Robin_Kuzmin__cppnow_05072019.pdf
@@ -268,13 +268,13 @@ Lightning Talks
 .. _wedAM2flgV: https://www.youtube.com/watch?v=fq3abPnEEGE
 .. |wedAM2hud| replace:: A generic binary tree: why grow your own? | Jeremy Murphy
 .. _wedAM2hud: 05-08-2019_wednesday/A_generic_binary_tree_why_grow_your_own__Jeremy_Murphy__cppnow_05082019.pdf
-.. |wedAM2hudV| replace:: (❓ no video)
-.. _wedAM2hudV: http://www.nyan.cat/index.php?cat=gb
+.. |wedAM2hudV| replace:: (video)
+.. _wedAM2hudV: https://www.youtube.com/watch?v=e-cRWFiGb8E
 
 .. |wedPM0bet| replace:: Practical Interfaces for Practical Functions | Lisa Lippincott
 .. _wedPM0bet: 05-08-2019_wednesday/Practical_Interfaces_for_Practical_Functions__Lisa Lippincott__cppnow_05082019.pdf
-.. |wedPM0betV| replace:: (❓ no video)
-.. _wedPM0betV: https://www.youtube.com/watch?v=fq3abPnEEGE
+.. |wedPM0betV| replace:: (video)
+.. _wedPM0betV: https://www.youtube.com/watch?v=4KmUG6BOXs8
 .. |wedPM0flg| replace:: ❓ Hey C, This Is What Performance Looks like (Manually Generating Optimal Assembly at Compile Time) | Odin Holmes (no slides)
 .. _wedPM0flg: 05-08-2019_wednesday/talk_title__author__cppnow_05082019.md
 .. |wedPM0flgV| replace:: (❓ no video)
@@ -290,8 +290,8 @@ Lightning Talks
 .. _wedPM2betV: http://www.nyan.cat/index.php?cat=gb
 .. |wedPM2flg| replace:: Parametric Expressions: A Proposed Language Feature | Jason Rice (no slides)
 .. _wedPM2flg: 05-08-2019_wednesday/Parametric_Expressions_A_Proposed_Language_Feature__Jason_Rice__cppnow05082019.pdf
-.. |wedPM2flgV| replace:: (❓ no video)
-.. _wedPM2flgV: https://www.youtube.com/watch?v=fq3abPnEEGE
+.. |wedPM2flgV| replace:: (video)
+.. _wedPM2flgV: https://www.youtube.com/watch?v=KfWzi3boBxM
 .. |wedPM2hud| replace:: Higher-order functions and function_ref | Vittorio Romeo
 .. _wedPM2hud: 05-08-2019_wednesday/Higher-order_functions_and_function_ref__Vittorio_Romeo__cppnow_05082019.pdf
 .. |wedPM2hudV| replace:: (❓ no video)
@@ -366,11 +366,11 @@ Lightning Talks
 .. |friAM0flg| replace:: ❓ The Many Variants of std::variant | Nevin ":-)" Liber (no slides)
 .. _friAM0flg: 05-10-2019_friday/talk_title__author__cppnow_05092019.md
 .. |friAM0flgV| replace:: (❓ no video)
-.. _friAM0flgV: https://www.youtube.com/watch?v=SHvhps47Lmc
+.. _friAM0flgV: https://www.youtube.com/watch?v=JUxhwf7gYLg
 .. |friAM0hud| replace:: The Rough Road Towards Upgrading to C++ Modules | Richárd_Szalay
 .. _friAM0hud: 05-10-2019_friday/The_Rough_Road_Towards_Upgrading_to_Cpp_Modules__Richárd_Szalay__cppnow_05102019.pdf
-.. |friAM0hudV| replace:: (❓ no video)
-.. _friAM0hudV: https://www.youtube.com/watch?v=fq3abPnEEGE
+.. |friAM0hudV| replace:: (video)
+.. _friAM0hudV: https://www.youtube.com/watch?v=XJxQs8qgn-c
 
 .. |friAM2bet| replace:: ❓ C++ Development with Visual Studio Code | Tara Lee (no slides)
 .. _friAM2bet: 05-10-2019_friday/A_Performance_Analysis_of_a_Simple_Trading_System__Jason_McGuinness__cppnow_05092019.pdf
@@ -378,12 +378,12 @@ Lightning Talks
 .. _friAM2betV: http://www.nyan.cat/index.php?cat=gb
 .. |friAM2flg| replace:: The Plan for Tomorrow: Compile-Time Extension Points in C++ Applications | JeanHeyd Meneide
 .. _friAM2flg: 05-10-2019_friday/The_Plan_for_Tomorrow_-_Compile-Time_Extension_Points_in_Cpp__ThePhD__cppnow05102019.pdf
-.. |friAM2flgV| replace:: (❓ no video)
-.. _friAM2flgV: https://www.youtube.com/watch?v=fq3abPnEEGE
+.. |friAM2flgV| replace:: (video)
+.. _friAM2flgV: https://www.youtube.com/watch?v=aZNhSOIvv1Q
 .. |friAM2hud| replace:: Exceptions Demystified | Andreas Weis
 .. _friAM2hud: 05-10-2019_friday/Exceptions_Demystified__Andreas_Weis__cppnow_05102019.pdf
-.. |friAM2hudV| replace:: (❓ no video)
-.. _friAM2hudV: https://www.youtube.com/watch?v=SHvhps47Lmc
+.. |friAM2hudV| replace:: (video)
+.. _friAM2hudV: https://www.youtube.com/watch?v=kO0KVB-XIeE
 
 
 
