@@ -139,47 +139,45 @@ Lightning Talks
 +------------------------+-------------------+
 | |lightning06|_         | |lightning06V|_   |
 +------------------------+-------------------+
-| |lightning07|_         | |lightningV07|_   |
+| |lightning07|_         | |lightning07V|_   |
 +------------------------+-------------------+
-| |lightning08|_         | |lightningV08|_   |
+| |lightning08|_         | |lightning08V|_   |
 +------------------------+-------------------+
-| |lightning09|_         | |lightningV09|_   |
+| |lightning09|_         | |lightning09V|_   |
 +------------------------+-------------------+
-| |lightning10|_         | |lightningV10|_   |
+| |lightning10|_         | |lightning10V|_   |
 +------------------------+-------------------+
-| |lightning11|_         | |lightningV11|_   |
+| |lightning11|_         | |lightning11V|_   |
 +------------------------+-------------------+
-| |lightning12|_         | |lightningV12|_   |
+| |lightning12|_         | |lightning12V|_   |
 +------------------------+-------------------+
-| |lightning13|_         | |lightningV13|_   |
+| |lightning13|_         | |lightning13V|_   |
 +------------------------+-------------------+
-| |lightning14|_         | |lightningV14|_   |
+| |lightning14|_         | |lightning14V|_   |
 +------------------------+-------------------+
-| |lightning15|_         | |lightningV15|_   |
+| |lightning15|_         | |lightning15V|_   |
 +------------------------+-------------------+
-| |lightning16|_         | |lightningV16|_   |
+| |lightning16|_         | |lightning16V|_   |
 +------------------------+-------------------+
-| |lightning17|_         | |lightningV17|_   |
+| |lightning17|_         | |lightning17V|_   |
 +------------------------+-------------------+
-| |lightning18|_         | |lightningV18|_   |
+| |lightning18|_         | |lightning18V|_   |
 +------------------------+-------------------+
-| |lightning19|_         | |lightningV19|_   |
+| |lightning19|_         | |lightning19V|_   |
 +------------------------+-------------------+
-| |lightning20|_         | |lightningV20|_   |
+| |lightning20|_         | |lightning20V|_   |
 +------------------------+-------------------+
-| |lightning21|_         | |lightningV21|_   |
+| |lightning21|_         | |lightning21V|_   |
 +------------------------+-------------------+
-| |lightning22|_         | |lightningV22|_   |
+| |lightning22|_         | |lightning22V|_   |
 +------------------------+-------------------+
-| |lightning23|_         | |lightningV23|_   |
+| |lightning23|_         | |lightning23V|_   |
 +------------------------+-------------------+
-| |lightning24|_         | |lightningV24|_   |
+| |lightning24|_         | |lightning24V|_   |
 +------------------------+-------------------+
-| |lightning25|_         | |lightningV25|_   |
+| |lightning25|_         | |lightning25V|_   |
 +------------------------+-------------------+
-| |lightning26|_         | |lightningV26|_   |
-+------------------------+-------------------+
-| |lightning27|_         | |lightningV27|_   |
+| |lightning26|_         | |lightning26V|_   |
 +------------------------+-------------------+
 
 
@@ -240,7 +238,7 @@ Lightning Talks
 
 .. Tuesday, May 07
 
-.. |tueAM0pae| replace:: Compile Time Regular Expressions with Deterministic Finite Automata | Hana Dusíková ❓ 
+.. |tueAM0pae| replace:: Compile Time Regular Expressions with Deterministic Finite Automata | Hana Dusíková
 .. _tueAM0pae: 05-07-2019_tuesday/Compile_Time_Regular_Expressions_with_Deterministic_Finite_Automatate__Hana_Dusíková__cppnow_05072019.pdf
 .. |tueAM0paeV| replace:: (video)
 .. _tueAM0paeV: https://www.youtube.com/watch?v=IO3MO450WX4
@@ -323,7 +321,7 @@ Lightning Talks
 .. _wedPM0flgV: https://www.youtube.com/watch?v=CNw6Cz8Cb68
 .. |wedPM0hud| replace:: ❓ Using C++20 Ranges Effectively | Jeff Garland (no slides)
 .. _wedPM0hud: 05-08-2019_wednesday/talk_title__author__cppnow_05082019.md
-.. |wedPM0hudV| replace:: (no video)
+.. |wedPM0hudV| replace:: (video)
 .. _wedPM0hudV: https://www.youtube.com/watch?v=VmWS-9idT3s
 
 .. |wedPM2bet| replace:: ❓ Secure Coding Best Practices - Threat Hunting | Matthew Buttler (no slides)
@@ -416,7 +414,7 @@ Lightning Talks
 
 .. |friAM2bet| replace:: ❓ C++ Development with Visual Studio Code | Tara Raj (no slides)
 .. _friAM2bet: 05-10-2019_friday/talk_title__author__cppnow_05102019.md
-.. |friAM2betV| replace:: (no video)
+.. |friAM2betV| replace:: (video)
 .. _friAM2betV: https://www.youtube.com/watch?v=knghWKWQmxg
 .. |friAM2flg| replace:: The Plan for Tomorrow: Compile-Time Extension Points in C++ Applications | JeanHeyd Meneide
 .. _friAM2flg: 05-10-2019_friday/The_Plan_for_Tomorrow_-_Compile-Time_Extension_Points_in_Cpp__ThePhD__cppnow05102019.pdf
@@ -435,13 +433,14 @@ Lightning Talks
 .. |liaw00S| replace:: slides
 .. _liaw00S: library_in_a_week/std_units_(Library_in_a_Week_2019)__Mateusz_Pusz__cppnow_05092019.pdf
 
-.. |liaw01| replace:: std::units -- Units for the Standard Library
+.. |liaw01| replace:: boost.out_ptr
 .. |liaw01S| replace:: slides
 .. _liaw01S: library_in_a_week/d1132__ThePhD__cppnow_05082019.pdf
 
 .. |liaw02| replace:: Boost.Process to std::process
 .. |liaw02S| replace:: ❓ (no slides)
 .. _liaw02S: http://www.nyan.cat/index.php?cat=jazz
+
 
 .. Lightning Talks
 
@@ -474,6 +473,11 @@ Lightning Talks
 .. _lightning05: lightning_talks/Rule_of_DesDeMovA__Peter_Sommerlad__cppnow_05062019.pdf
 .. |lightning05V| replace:: (video)
 .. _lightning05V: https://www.youtube.com/watch?v=fs4lIN3_IlA
+
+.. |lightning06| replace:: Distributed Object Abstraction using HPX | Weile Wei
+.. _lightning06: lightning_talks/Distributed_Object_Abstraction_using_HPX__Weile_Wei__cppnow_05060219.pdf
+.. |lightning06V| replace:: (video)
+.. _lightning06V: https://www.youtube.com/watch?v=B7fVDA-NP1Y
 
 .. |lightning07| replace:: multi_span<...> | Christian Schilling
 .. _lightning07: lightning_talks/lightningtalk_title__author__cppnow_05062019.md
@@ -560,23 +564,17 @@ Lightning Talks
 .. |lightning23V| replace:: (video)
 .. _lightning23V: https://www.youtube.com/watch?v=JPPqMl_vbBc
 
-.. |lightning24| replace:: Distributed Object Abstraction using HPX | Weile Wei
-.. _lightning24: lightning_talks/Distributed_Object_Abstraction_using_HPX__Weile_Wei__cppnow_05060219.pdf
+.. |lightning24| replace:: scnlib: Formatted input library | Elias Kounen
+.. _lightning24: lightning_talks/lightningtalk_title__author__cppnow_05062019.md
 .. |lightning24V| replace:: (video)
-.. _lightning24V: https://www.youtube.com/watch?v=B7fVDA-NP1Y
+.. _lightning24V: https://www.youtube.com/watch?v=DSaSKBSyEAk
 
-.. |lightning25| replace:: scnlib: Formatted input library | Elias Kounen
+.. |lightning25| replace:: WG21 Paper in Markdown | Michael Park
 .. _lightning25: lightning_talks/lightningtalk_title__author__cppnow_05062019.md
 .. |lightning25V| replace:: (video)
-.. _lightning25V: https://www.youtube.com/watch?v=DSaSKBSyEAk
+.. _lightning25V: https://www.youtube.com/watch?v=8yReHZOw6QY
 
-.. |lightning26| replace:: WG21 Paper in Markdown | Michael Park
+.. |lightning26| replace:: Choose proper container... automatically? | Alexander Zaitsev
 .. _lightning26: lightning_talks/lightningtalk_title__author__cppnow_05062019.md
 .. |lightning26V| replace:: (video)
-.. _lightning26V: https://www.youtube.com/watch?v=8yReHZOw6QY
-
-.. |lightning27| replace:: Choose proper container... automatically? | Alexander Zaitsev
-.. _lightning27: lightning_talks/lightningtalk_title__author__cppnow_05062019.md
-.. |lightning27V| replace:: (video)
-.. _lightning27V: https://www.youtube.com/watch?v=NeWTAEh6Sbk
-
+.. _lightning26V: https://www.youtube.com/watch?v=NeWTAEh6Sbk
