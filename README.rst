@@ -464,8 +464,8 @@ Lightning Talks
 .. |lightning03V| replace:: (video)
 .. _lightning03V: https://www.youtube.com/watch?v=z6s6PVDhhV4
 
-.. |lightning04| replace:: Undefined Behavior - Not What You Expect | Oded Shinon
-.. _lightning04: lightning_talks/Undefined_Behavior_-_Not_What_You_Expected__Oded_Shinon__05062019.pdf
+.. |lightning04| replace:: Undefined Behavior - Not What You Expect | Oded Shimon
+.. _lightning04: lightning_talks/Undefined_Behavior_-_Not_What_You_Expected__Oded_Shimon__05062019.pdf
 .. |lightning04V| replace:: (video)
 .. _lightning04V: https://www.youtube.com/watch?v=QDxsf7Iv23w
 
