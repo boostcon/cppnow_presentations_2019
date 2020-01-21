@@ -282,7 +282,7 @@ Lightning Talks
 .. |tuePM2hud| replace:: C++: Engineers Wanted, Programmers not so Much | David Sankel
 .. _tuePM2hud: 05-07-2019_tuesday/Cpp_Engineers_Wanted__David_Sankel__cpp_now_05072019.pdf
 .. |tuePM2hudV| replace:: (video)
-.. _tuePM2hudV: https://www.youtube.com/watch?v=eJTEoPvinpQ 
+.. _tuePM2hudV: https://www.youtube.com/watch?v=eRHLuuFMtx4 
 
 .. |tuePM6flg| replace:: C++Now and CppCon, the View from Inside | Robin Kuzmin
 .. .. _tuePM6flg: 05-07-2019_tuesday/CppNow_and_CppCon_The_View_From_Inside__Robin_Kuzmin__cppnow_05072019.pdf
